@@ -4,9 +4,9 @@ Ever wanted to improve your time on a track, but never managed to pinpoint where
 
 [RACEDEPARTMENT LINK](https://www.racedepartment.com/downloads/track-sectors-divide-the-track-in-sections.43904/)
 
+Video Demonstration :
 
-Video Demonstration of The App
-[![Youtube Tutorial Video](thumbnail.png)](https://www.youtube.com/watch?v=9x-IG0ybvn8)
+[![Video Demonstration of The App](thumbnail.png)](https://www.youtube.com/watch?v=9x-IG0ybvn8)
 
 
 How To Use - Please READ:
