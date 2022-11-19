@@ -96,7 +96,8 @@ Contributions:
 
 \
 Related docs:
-- [Track Sectors User Manual.pdf]([Track Sectors User Manual.pdf](https://github.com/RuseCristian/Track-Sectors-Assetto-Corsa-App/files/10046798/Track.Sectors.User.Manual.pdf)
-)
+- [Track Sectors User Manual.pdf](https://github.com/RuseCristian/Track-Sectors-Assetto-Corsa-App/files/10046798/Track.Sectors.User.Manual.pdf)
 
-- [Technical Explainations.pdf](https://github.com/RuseCristian/Track-Sectors-Assetto-Corsa-App/files/10046778/Technical.Explainations.pdf)
+
+- [Technical Explainations.pdf](https://github.com/RuseCristian/Track-Sectors-Assetto-Corsa-App/files/10046803/Technical.Explainations.pdf)
+
