@@ -11,15 +11,22 @@ Video Demonstration :
 
 How To Use - Please READ:
 
-Select how many sectors you want to use, then simply press the button for each respective sector where you want to set the end of the sector. After configuring all your sectors, go to pits, then you can start recording times.
+Select how many sectors you want to use, then simply press the button for each respective sector where you want to set the end of the sector. After configuring the sectors please follow the instructions that appear in the app to start your timings. Afterwards, in future sessions, the player can simply just drive if he/she has previously made a configuration for that track layout, resulting in a seamless gameplay loop after the configuration.
 
 
-This procedure of going to pits is not mandatory every time, only when setting up/resetting a track configuration, if the configuration is already made for the current track, the app will record your times naturally.
+Supported session types(both singleplayer and multiplayer):
 
+- Practice
 
+- Qualifying
+
+- Hotlap
+
+- Race
+- 
 Requirements
 
-- at least version 1.78 of custom shaders patch (CSP)
+- at least version 2.2 of custom shaders patch (CSP)
 
 - track has an implemented AI Line
 
@@ -45,6 +52,25 @@ Notes regarding how the app works:
 
 
 I highly suggest reading the User Manual PDF file, found inside the zip archive, to understand everything that the app offers.
+
+
+
+Update 1.4.2
+
+- more intuitive UI, tells you why a button does not work now ( example: trying to reset the times outside pits will show a message to let you know why it does not work)
+
+- completely rewritten the parts that manages session types,going to pits,resets and making sure the player is not in a replay.
+
+- the program is now more robust, some leftover functionalities were encapsulated into separate methods so its easier to develop and debug
+
+- tested all supported sessions in single and multiplayer
+
+- fixed a bug where the app crashed due to a bad dictionary
+
+- fixed a bug where the app wouldn't switch to the correct page
+
+- fixed various bugs where the time wasn't recorded properly
+
 
 
 
