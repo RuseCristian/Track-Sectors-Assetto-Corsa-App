@@ -6,7 +6,7 @@ Ever wanted to improve your time on a track, but never managed to pinpoint where
 
 Video Demonstration :
 
-[![Video Demonstration of The App](thumbnail.png)]([https://www.youtube.com/watch?v=9x-IG0ybvn8](https://www.youtube.com/watch?v=c0fWVsOLjeA))
+[![Video Demonstration of The App](thumbnail.png)](https://www.youtube.com/watch?v=c0fWVsOLjeA)
 
 
 ## How To Use - Please READ:
