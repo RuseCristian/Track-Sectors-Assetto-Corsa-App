@@ -4,8 +4,9 @@
 ![Assetto Corsa](https://img.shields.io/badge/Platform-Assetto%20Corsa-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.4.2-brightgreen)
+![Downloads](https://img.shields.io/badge/downloads-2K+-success?style=flat-square&logo=download)   
 
-A comprehensive sector timing app for Assetto Corsa that helps drivers analyze their performance by dividing tracks into customizable sectors. Identify your strengths and weaknesses to improve lap times with precision timing data.
+A comprehensive sector timing app for Assetto Corsa that helps drivers analyze their performance by dividing tracks into customizable sectors. Identify your strengths and weaknesses to improve lap times with precision timing data. Currently used by 2k+ users.
 
 ## 🎯 Features
 
